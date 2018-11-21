@@ -1,0 +1,34 @@
+{
+  "name": "cloudant_boilerplate_nodejs",
+  "version": "0.0.2",
+  "private": false,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "@cloudant/cloudant": "^2.4.0",
+    "body-parser": "1.17.x",
+    "cfenv": "^1.0.x",
+    "connect-flash": "^0.1.1",
+    "connect-multiparty": "2.0.x",
+    "cookie-parser": "^1.4.3",
+    "dotenv": "^4.0.0",
+    "ejs": "2.5.x",
+    "errorhandler": "1.5.x",
+    "express": "^4.15.x",
+    "express-enforces-ssl": "^1.1.0",
+    "express-session": "^1.15.6",
+    "helmet": "^3.6.0",
+    "ibmcloud-appid": "^4.2.1",
+    "jquery.json-viewer": "^1.1.0",
+    "method-override": "2.3.x",
+    "morgan": "1.8.x",
+    "nconf": "^0.10.0",
+    "passport": "^0.4.0",
+    "react-native-ibm-mobilefirst": "^8.0.2018101016"
+  },
+  "repository": {},
+  "engines": {
+    "node": "6.x"
+  }
+}
