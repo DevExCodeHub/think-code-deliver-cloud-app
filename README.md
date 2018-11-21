@@ -3,6 +3,8 @@
 ## Introduction
 In this tutorial we will make our own Cloud Web App using IBM Cloud and its services. Starting from securing user information by using App ID service, to using IBM Cloud Cloudant database. In the end we will deploy our app both locally and to the cloud.
 
+ ![`Secure`](images/secure.png)
+ 
 ## Prerequisites
 * [IBM Cloud](https://ibm.biz/thinkcodedeliver "IBM Cloud")
 * [IBM Cloud CLI](https://ibm.biz/ibmcloudcli "IBM Cloud CLI")
