@@ -1,0 +1,15 @@
+
+{
+   "services": {
+
+      "cloudantNoSQLDB": [
+         {
+      [put the credential here]
+}
+         }
+      ]
+   }
+}
+
+
+
