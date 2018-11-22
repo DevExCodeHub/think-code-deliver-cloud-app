@@ -1,0 +1,19 @@
+
+{
+   "services": {
+
+      "cloudantNoSQLDB": [
+         {
+            "dbName": "mycloudant",
+            "label": "cloudantNoSQLDB",
+            "plan": "Lite",
+            "credentials": {
+[ put your credentials here]
+}
+         }
+      ]
+   }
+}
+
+
+
